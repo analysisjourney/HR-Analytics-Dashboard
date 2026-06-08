@@ -21,8 +21,7 @@ Power BI, Excel, DAX, Data Modeling, Data Visualization
 - High-demand seasons can affect operational readiness.
 
 ## Screenshots
-![Executive Overview](<img width="1235" height="696" alt="Screenshot 2026-06-08 204914" src="https://github.com/user-attachments/assets/31e7ad1e-2060-4c2a-a76f-f22ac9abc96e" />
-)
+![Executive Overview](<img width="1235" height="696" alt="Screenshot 2026-06-08 204914" src="https://github.com/user-attachments/assets/31e7ad1e-2060-4c2a-a76f-f22ac9abc96e" />)
 ![Seasonal Pressure](<img width="1238" height="695" alt="Screenshot 2026-06-08 204935" src="https://github.com/user-attachments/assets/b5345851-a6f5-4de9-a443-ffa31a50079d" />
 )
 ![Risk Monitoring](<img width="1241" height="698" alt="Screenshot 2026-06-08 204953" src="https://github.com/user-attachments/assets/ccf74599-e045-469c-9b57-a6d04875c269" />
