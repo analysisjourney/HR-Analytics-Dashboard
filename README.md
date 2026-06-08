@@ -22,7 +22,7 @@ Power BI, Excel, DAX, Data Modeling, Data Visualization
 <img width="1245" height="705" alt="Screenshot 2026-06-08 205010" src="https://github.com/user-attachments/assets/570bfc55-85e3-4d9f-945c-b609f3d72633" />
 
 ## Power BI File
-sha256:33f9eb0225c209ddeebf7d396935fc74e01488a99fe7e2a83ed4f8fee704cf2f
+https://github.com/analysisjourney/HR-Analytics-Workforce-Dashboard/releases/tag/v1.0
 
 ## Dataset
 https://github.com/user-attachments/files/28721465/Enhanced_HR_Operations_Data_Model.xlsx
