@@ -1,4 +1,4 @@
-# HR Analytics Dashboard project
+# HR Analytics Dashboard Case study
 
 ## Case study Overview
 This Power BI case study uses simulated HR data to analyze workforce readiness, attrition patterns, employee risk indicators, and seasonal workforce pressure, supporting more informed workforce planning and operational decisions.
